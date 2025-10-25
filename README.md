@@ -1,6 +1,11 @@
 LINK WEBSITE : https://nanashinw.github.io/The-Little-Taco-Shop-Project-Learning/
 
+💾 ขั้นตอนที่ 5: Commit การเปลี่ยนแปลง
+git add .
+git commit -m "อัปเดตหน้าเว็บใหม่"
 
+☁️ ขั้นตอนที่ 6: Push ขึ้น GitHub
+git push origin main
 
 
 # "HTML Project for Beginners"
